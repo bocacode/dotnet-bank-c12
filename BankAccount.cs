@@ -1,11 +1,20 @@
+using System.Runtime.InteropServices;
+
 public class BankAccount {
 
-    public double Balance = 0;
+    private  double Balance = 0;
+    public string OwnersName = "";
 
-    public BankAccount(double initialBalance) {
+    // constructor
+    public BankAccount(string NewOwnersName,double initialBalance) {
 
+        this.OwnersName = NewOwnersName;
         this.Balance = initialBalance;
+        this.Balance += 100.00;
     }
 
+    public double getBalance() {
+        return this.Balance;
+    }
 
 }

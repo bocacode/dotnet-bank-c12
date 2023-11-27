@@ -8,9 +8,9 @@ string name = "Damian";
  
 //Console.WriteLine($"your name is  {name} and you're {age} years old");
 
-BankAccount newAccount = new BankAccount();
+BankAccount newAccount = new BankAccount("Bobby",-100.99);
 
-newAccount.Balance = 100.99;
-newAccount.Balance = newAccount.Balance + 100;
+//newAccount.Balance = -100.99;
+// newAccount.Balance = newAccount.Balance + 100;
 
-Console.WriteLine($"Your balance is {newAccount.Balance}");
+Console.WriteLine($"{newAccount.OwnersName} balance is {newAccount.getBalance()}");
