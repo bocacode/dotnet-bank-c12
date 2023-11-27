@@ -6,6 +6,10 @@ int age = 50;
 
 string name = "Damian";
  
-Console.WriteLine($"your name is  {name} and you're {age} years old");
+//Console.WriteLine($"your name is  {name} and you're {age} years old");
 
+BankAccount newAccount = new BankAccount();
 
+newAccount.Balance = 100.99;
+
+Console.WriteLine($"Your balance is {newAccount.Balance}");
