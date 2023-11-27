@@ -1,0 +1,15 @@
+/home/damian/Desktop/Code/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12
+/home/damian/Desktop/Code/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.deps.json
+/home/damian/Desktop/Code/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.runtimeconfig.json
+/home/damian/Desktop/Code/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.dll
+/home/damian/Desktop/Code/dotnet-bank-c12/bin/Debug/net8.0/dotnet-bank-c12.pdb
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.GeneratedMSBuildEditorConfig.editorconfig
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfoInputs.cache
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.AssemblyInfo.cs
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.csproj.CoreCompileInputs.cache
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.sourcelink.json
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.dll
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/refint/dotnet-bank-c12.dll
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.pdb
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/dotnet-bank-c12.genruntimeconfig.cache
+/home/damian/Desktop/Code/dotnet-bank-c12/obj/Debug/net8.0/ref/dotnet-bank-c12.dll
