@@ -8,9 +8,18 @@ string name = "Damian";
  
 //Console.WriteLine($"your name is  {name} and you're {age} years old");
 
-BankAccount newAccount = new BankAccount("Bobby",-100.99);
+try {
 
-//newAccount.Balance = -100.99;
-// newAccount.Balance = newAccount.Balance + 100;
+    CheckingAccount newAccount = new CheckingAccount("Bobby",100.99);
 
-Console.WriteLine($"{newAccount.OwnersName} balance is {newAccount.getBalance()}");
+    //newAccount.Balance = -100.99;
+    // newAccount.Balance = newAccount.Balance + 100;
+
+    newAccount.Deposit(50.00);
+
+    newAccount.Withdraw(40.00);
+
+    Console.WriteLine($"{newAccount.OwnersName} balance is {newAccount.getBalance()}");
+} catch (Exception err) {
+    Console.WriteLine($" you got an error: {err.Message}");
+}
